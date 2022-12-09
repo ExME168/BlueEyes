@@ -15,7 +15,7 @@ def printBanner():
     print(" |____/|_|\__,_|\___|______\__, |\___||___/")
     print("                            __/ |          ")
     print("                           |___/           " + '\033[0m')
-    print("===========================================") 
+    print("============== by ExME168 =================") 
     print(" 0 - Basics of Bluetooth Technology      -- learn the fundamentals of Bluetooth technology before you get started")
     print(" 1 - Check Bluetooth Service Status      -- check if Bluetooth is currently running in Kali")
     print(" 2 - Start Bluetooth Service             -- activate Bluetooth in Kali; needed for your adapter to be recognized")
